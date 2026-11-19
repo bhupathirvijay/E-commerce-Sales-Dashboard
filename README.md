@@ -1,4 +1,4 @@
-Dashboard link : https://public.tableau.com:9443/views/E-CommercesalesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard link : https://public.tableau.com/app/profile/vijay.kumar.raju.bhupathi/viz/E-CommercesalesDashboard/Dashboard1
 
 E-Commerce Sales Dashboard | YTD Sales Analysis
 
